@@ -53,5 +53,3 @@ This effort can be subsidised under an existing or new ISM initiative or the rec
 Such a model would accelerate semiconductor product development in India. It would enable researchers to verify novel concepts, startups to reduce time to market, and students to gain hands-on experience in manufacturable chip design—all while fostering a sorely needed culture of collaboration and innovation.
 
 ***\*\*Satya and Pranay are researchers with the High-Tech Geopolitics programme at the Takshashila Institution, Bangalore. For the latest research updates from Takshashila Institution, visit <https://takshashila.org.in/>\*\****
-
-\n
